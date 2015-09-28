@@ -6,7 +6,8 @@ $anchor-text-color: #CE534D;
 $background-color: #F1EED9;
 
 body {
-	font-family: 'Vollkorn', serif;
+	font-family: Muli, Calibri, Trebuchet, sans-serif;
+	font-weight: 300;
 	color: $text-color;
 	background-color: $background-color;
 }
@@ -101,6 +102,18 @@ footer {
 	bottom: 0;
 	right: 0;
 	height: 20px;
+}
+
+.formInput{
+	margin: 10px;
+	input{
+		padding: 5px;
+		width: 300px;
+	}
+}
+
+.emailForm{
+	text-align: center;
 }
 
 .poweredby {
