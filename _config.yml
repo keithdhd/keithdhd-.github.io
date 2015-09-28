@@ -1,24 +1,21 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+# general configuration
+url: http://excentris.net
+baseurl: ''
 
-# Permalinks
-permalink:        pretty
+# compass configuration
+compass:
+  # an avatar or logo (optional)
+  logo: "/images/compass.png"
+  # author will appear under the avatar (optional)
+  author: "Keith Douglas"
+  # tagline will appear under the title (optional)
+  tagline: "Web Developer"
+  # if include_content is true, the contents of the content.html include will be
+  # added right above the generated item list, if present
+  include_content: true
+  # if include_analytics is true, the content of the analytics.html include will
+  # be added at the end of the <head> section. You can add your Google Analytics
+  # Tracking Code to that file.
+  include_analytics: false
 
-# Setup
-title:            Keith Douglas
-tagline:          'Web Developer'
-description:      'Keith Douglas, web developer'
-url:              http://www.keithdouglas.co.uk
 
-author:
-  name:           'Keith Douglas'
-  url:            https://twitter.com/KDHDouglas
-
-paginate:         5
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/keithdh/keithdhd.github.io
