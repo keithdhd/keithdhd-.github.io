@@ -1,0 +1,15 @@
+---
+title: Twitter websocket app
+subtitle: Realtime Node.js/Express Twitter keyword search
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: twitterwebsocket.png
+thumbnail: twitterwebsocket-thumbnail.png
+alt: image-alt
+project-date: August 2015
+projecturl: http://twitter-web-socket.herokuapp.com
+category: Web Development
+description: A Node.js/Express app with a websocket to stream Twitter API searches. Tech used also included HTML, Bootstrap.
+
+---

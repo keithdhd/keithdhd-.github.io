@@ -1,0 +1,15 @@
+---
+title: Mastermind​
+subtitle: OO JavaScript Game
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: mastermind.png
+thumbnail: mastermind-thumbnail.png
+alt: image-alt
+project-date: July 2015
+projecturl: http://js-mastermind.herokuapp.com
+category: Web Development
+description: A JavaScript drag ‘n’ drop version of the classic board game. Tech used also included HTML, jQuery, CSS.
+
+---

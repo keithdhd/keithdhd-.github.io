@@ -1,0 +1,14 @@
+---
+title: Epictetus
+subtitle: A mobile-first MEAN stack wellbeing app
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: epictetus.png
+thumbnail: epictetus-thumbnail.png
+alt: image-alt
+project-date: September 2015
+projecturl: https://epictetusapp.herokuapp.com
+description: A philosophical wellbeing app built with Node.js/Express and AngularJS.
+
+---

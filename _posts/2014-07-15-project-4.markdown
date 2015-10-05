@@ -1,0 +1,15 @@
+---
+title: Guitaragogo
+subtitle: Rails guitar lessons sharing app
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: guitaragogo.png
+thumbnail: guitaragogo-thumbnail.png
+alt: image-alt
+project-date: July 2015
+projecturl: http://guitaragogo.herokuapp.com
+category: Web Development
+description: A Rails app to link to, view and share YouTube guitar lessons. Tech used also included HTML, CSS.
+
+---
