@@ -1,3 +1,3 @@
-My Jekyll Website - www.KeithDouglas.co.uk
-====================
+My Jekyll Website 
+=================
 
